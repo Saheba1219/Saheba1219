@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Saheba%20Parween&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer&descSize=20&descAlignY=58" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,45:6a11cb,100:2575fc&height=230&section=header&text=Saheba%20Parween&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=MERN%20Stack%20Developer&descSize=20&descAlignY=56" width="100%" alt="banner" />
+
+<p align="center">
+<a href="https://github.com/Saheba1219"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Open+to+Software+Developer+roles" alt="Typing SVG" /></a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Saheba Parween</h1>
 <h3 align="center">MERN Stack Developer | JavaScript | React.js | Node.js | MongoDB | Passionate about Building Web Apps</h3>
