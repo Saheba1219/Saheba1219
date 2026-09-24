@@ -23,7 +23,7 @@
 
 - 🎓 **MCA graduate** — Techno India University, Kolkata
 
-- 📫 How to reach me **sahebaparween38@gmail.com**
+- 📫 How to reach me **saheba04a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
